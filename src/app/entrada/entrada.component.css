@@ -1,0 +1,56 @@
+* {
+  font-family: 'Roboto';
+}
+.divContenedor {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 35px;
+}
+.derecha {
+  display: flex;
+}
+.title {
+  font-size: 36px;
+  font-weight: normal;
+  margin: 0;
+}
+.subtitle {
+  font-size: 16px;
+  margin: 0;
+}
+.subtitleBold {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+}
+.italic {
+  font-size: 16px;
+  font-style: italic;
+  margin: 0;
+}
+.numeroBolita {
+  width: 50px;
+  height: 50px;
+  font-size: 48px;
+  font-weight: bold;
+  background-color: #1D4786;
+  color: white;
+  text-align: center;
+  border-radius: 100%;
+  margin-left: 5rem;
+  margin-right: 10px;
+  align-self: center;
+}
+button {
+  width: 100px;
+  height: 30px;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: #AF4C4C;
+  color: white;
+  margin-right: 5rem;
+  align-self: center;
+}
+.subtitulos {
+  display: flex;
+}
